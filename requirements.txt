@@ -1,0 +1,33 @@
+# Web Scraping
+selenium==4.15.2
+playwright==1.40.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+
+# Data Processing - UPDATED for Python 3.13
+pandas>=2.2.0
+numpy>=1.26.0
+jsonschema==4.20.0
+
+# NLP & Embeddings - UPDATED
+openai>=1.0.0
+sentence-transformers>=2.3.0
+langchain>=0.1.0
+langchain-openai>=0.0.5
+
+# Vector Database - UPDATED
+faiss-cpu>=1.8.0
+
+# Graph Database
+neo4j>=5.14.0
+
+# Web Framework - UPDATED
+flask>=3.0.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+streamlit>=1.29.0
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
+requests==2.31.0
